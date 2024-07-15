@@ -1,4 +1,6 @@
-# Online-Retail-Store-Analysis
+# Online-Retail-Sales-Analysis
+
+Created an informative Dashboard to understand ratail sales figure better and gain insights.
 
 ## Table of Contents
 
